@@ -30,6 +30,19 @@
     background-color: #FFFFFF;
 }
 
+.menu-wrapper{
+    position: relative;
+    padding-top: 24px;
+    padding-right: 24px;
+}
+
+.close-btn-menu{
+    position: absolute;
+    background-color: #E7E9FC;
+    opacity: 0.1;
+    border: 1px solid #2E2F42;
+}
+
 @media screen and (max-width: 767px){
     .container{
         width: 396px;
