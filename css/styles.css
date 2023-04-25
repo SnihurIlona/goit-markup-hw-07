@@ -106,14 +106,14 @@ p{
     align-items: center;
 } */
 
-
+/* 
 .header-site{
     display: flex;
     flex-direction: row;
-}
+} */
 
 .header-site .link {
-    display: block;
+    /* display: block; */
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
