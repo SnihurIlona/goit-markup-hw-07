@@ -23,4 +23,7 @@
             text-transform: uppercase;
             color: #2E2F42;
                 }
+    .header-site, .contacts{
+        display: none;
+    }
 }
