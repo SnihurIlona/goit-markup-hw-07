@@ -55,7 +55,7 @@ p{
     color: #2E2F42;
 } */
 
-.menu{
+/* .menu{
     position: relative;
 }
 
@@ -78,7 +78,7 @@ p{
 .menu:focus::after{
     opacity: 1;
     transition: opacity, 250ms, cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 
 /* List */
@@ -134,17 +134,17 @@ p{
 } */
 
 /* Header-wrap */
-.contacts {
+/* .contacts {
     font-style: normal;
     margin-left: auto;
-}
+} */
 
-.header-wrap{
+/* .header-wrap{
     display: flex;
     flex-direction: row;
-}
+} */
 
-.header-wrap .link {
+/* .header-wrap .link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -154,7 +154,7 @@ p{
 
 .header-wrap .link:hover, .header-wrap .link:focus {
     color: #404bbf;
-}
+} */
 
 
 
