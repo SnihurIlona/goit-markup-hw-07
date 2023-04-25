@@ -18,7 +18,6 @@
 }
 
 button{
-    -webkit-appearance: button;
     border: none;
     background-color: #FFFFFF;
     padding: 0;
