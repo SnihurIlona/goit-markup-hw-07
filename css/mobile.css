@@ -1,12 +1,15 @@
 /* Header container */
 .container {
-    width: 396px;
+    width: 100%;
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
 }
 
 @media screen and (max-width: 428px){
+    .container{
+        width: 396px;
+    }
     .header-logo {
             font-family: 'Raleway', sans-serif;
             letter-spacing: 0.03em;
