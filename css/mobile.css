@@ -17,8 +17,10 @@
     padding-bottom: 22px;
 }
 
-.burger-btn{
+button{
+    -webkit-appearance: button;
     border: none;
+    background-color: #FFFFFF;
     padding: 0;
 }
 
