@@ -23,17 +23,14 @@
 
 .mobile-menu{
     position: fixed;
+    position: relative;
+    padding-top: 24px;
+    padding-right: 24px;
     width: 100%;
     height: 100%;
     left: 0;
     z-index: 1000;
     background-color: #FFFFFF;
-}
-
-.menu-wrapper{
-    position: relative;
-    padding-top: 24px;
-    padding-right: 24px;
 }
 
 .close-btn-menu{
