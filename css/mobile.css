@@ -6,6 +6,11 @@
     margin: 0 auto;
 }
 
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
 @media screen and (max-width: 767px){
     .container{
         width: 396px;
