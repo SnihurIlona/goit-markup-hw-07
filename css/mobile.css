@@ -9,8 +9,12 @@
 .main-nav {
     display: flex;
     justify-content: space-between;
-    left: 16px;
-    top: 24px;
+    align-items: center;
+}
+
+.header{
+    padding-top: 24px;
+    padding-bottom: 22px;
 }
 
 .menu-burger{
