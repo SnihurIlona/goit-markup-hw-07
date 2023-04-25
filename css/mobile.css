@@ -17,6 +17,11 @@
     padding-bottom: 22px;
 }
 
+.burger-btn{
+    border: none;
+    padding: 0;
+}
+
 .menu-burger{
     stroke: #2E2F42;
 }
