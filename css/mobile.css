@@ -5,3 +5,22 @@
     padding-right: 15px;
     margin: 0 auto;
 }
+
+@media screen (max-width: 428px){
+    .header-logo {
+            font-family: 'Raleway', sans-serif;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            font-weight: 800;
+            font-size: 18px;
+            line-height: 1.17;
+            color: #4D5AE5;
+            margin-right: 249p;
+        }
+   
+    .second-color {
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            color: #2E2F42;
+                }
+}
