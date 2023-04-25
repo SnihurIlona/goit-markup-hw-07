@@ -15,7 +15,6 @@
             font-size: 18px;
             line-height: 1.17;
             color: #4D5AE5;
-            margin-right: 249p;
         }
    
     .second-color {
@@ -23,7 +22,7 @@
             text-transform: uppercase;
             color: #2E2F42;
                 }
-    .header-site, .contacts{
+    .header-site , .contacts{
         display: none;
     }
 }

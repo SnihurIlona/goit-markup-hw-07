@@ -124,14 +124,14 @@ p{
 
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
+/* 
 .header-site .link:hover, .header-site .link:focus {
     color: #404bbf;
-}
+} */
 
-.site-nav:not(:last-child){
+/* .site-nav:not(:last-child){
     margin-right: 40px;
-}
+} */
 
 /* Header-wrap */
 .contacts {
