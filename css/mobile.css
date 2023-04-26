@@ -1,9 +1,9 @@
 /* Header container */
 .container {
-    width: 100%;
     padding-left: 15px;
     padding-right: 15px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .main-nav {
@@ -55,9 +55,9 @@ button{
     fill: #2E2F42;
 } */
 
-@media screen and (max-width: 767px){
+@media screen and (min-width: 480px){
     .container{
-        width: 396px;
+        width: 428px;
     }
     .header-logo {
             font-family: 'Raleway', sans-serif;
