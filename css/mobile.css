@@ -268,11 +268,13 @@ button{
     }
 
     .input-subscribe{
+        min-width: 398px;
         margin-bottom: 16px;
         opacity: 0.3;
     }
 
     .subscribe-btn{
+        margin-right: auto;
         margin-left: auto;
     }
 
