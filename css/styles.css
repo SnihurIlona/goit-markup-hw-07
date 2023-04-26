@@ -795,7 +795,7 @@ p{
 
 
 /* Buttons */
-/* .main-button {
+.main-button {
     background-color: #4D5AE5;
     font-family: "Roboto",
         sans-serif;
@@ -818,7 +818,7 @@ p{
     background-color: #404BBF;
 }
 
-.secondary-button {
+/* .secondary-button {
     background-color: #F4F4FD;
     font-family: "Roboto",
         sans-serif;
