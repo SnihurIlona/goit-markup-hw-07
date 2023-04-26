@@ -49,6 +49,7 @@ button{
     opacity: 0.1;
     border: none;
     border: 1px solid #2E2F42;
+    border-radius: 4px;
 }
 
 .btn-menu{
