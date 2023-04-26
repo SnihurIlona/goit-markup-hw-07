@@ -128,6 +128,10 @@ button{
         padding: 0;
         margin-bottom: 72px;
         }
+}
 
-        .section-about.is-hidden
+.section-about{
+    @media screen and (min-width: 480px) {
+        .is-hidden
+    }
 }
