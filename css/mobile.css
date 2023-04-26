@@ -104,5 +104,9 @@ button{
         .icon{
             display: none;
         }
+        .section-items {
+        padding-top: 96px;
+        padding-bottom: 96px;
+        }
 
 }
