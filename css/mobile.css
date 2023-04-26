@@ -163,10 +163,17 @@ button{
         display: none;
     }
 
+    .team-images{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 72px;
+    }
     .team-list{
         width: 264px;
     }
-    .team-list:not(:last-child){
+    /* .team-list:not(:last-child){
         margin-bottom: 72px;
-    }
+    } */
 }
