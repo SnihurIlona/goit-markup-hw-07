@@ -260,4 +260,9 @@ button{
         }
 
 
+        /* Subscribe */
+    .subscribe{
+        margin-top: 72px;
+        text-align: center;
+    }
 }
