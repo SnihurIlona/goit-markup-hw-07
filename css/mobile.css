@@ -206,14 +206,14 @@ button{
     color: #2E2F42;
     }
 
-    .icon-link {
-    display: inline;
+    .emblem-list{
+        display: inline-block;
+    }
+
+    .icon-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 16px;
     }
-    
-    /* .emblem {
-    display: flex;
-    justify-content: space-between;
-    gap: 16px;
-    } */
 }
