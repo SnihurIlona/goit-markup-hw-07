@@ -207,14 +207,13 @@ button{
     }
 
     .icon-link {
-    display: flex;
-    justify-content: space-between;
+    display: inline;
     gap: 16px;
     }
     
-    .emblem {
+    /* .emblem {
     display: flex;
     justify-content: space-between;
     gap: 16px;
-    }
+    } */
 }
