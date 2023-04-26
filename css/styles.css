@@ -307,9 +307,9 @@ p{
     border-radius: 0px 0px 4px 4px;
 }
 
-.team-list:not(:last-child){
+/* .team-list:not(:last-child){
     margin-right: 24px;
-}
+} */
 
 .position {
     font-weight: 400;
