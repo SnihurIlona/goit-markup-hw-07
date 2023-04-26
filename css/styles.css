@@ -460,14 +460,8 @@ p{
 
 
 
-
-
-
-
-
-
 /* .............Social media............... */
-/* .social-media{
+.social-media{
     margin-left: 120px;
     margin-right: auto;
 }
@@ -498,19 +492,12 @@ p{
 .media-icon:hover, .media-icon:focus{
     width: 24px;
     height: 24px;
-} */
-
-
-
-
-
-
-
+}
 
 
 
 /* Subscribe */
-/* .subscribe{
+.subscribe{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -559,7 +546,7 @@ p{
 .icon-subscribe{
     fill: #FFFFFF;
     margin-left: 16px;
-} */
+}
 
 
 
