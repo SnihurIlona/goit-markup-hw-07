@@ -270,4 +270,14 @@ button{
         display: inline-block;
     }
 
+    .input-subscribe{
+        margin-bottom: 16px;
+    }
+
+    .subscribe-btn{
+        margin-left: auto;
+    }
+
+
+
 }
