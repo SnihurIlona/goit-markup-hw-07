@@ -196,7 +196,7 @@ p{
 /* .section-items{
     padding-top: 120px;
     padding-bottom: 120px;
-}
+} */
 
 .subtitle {
     font-weight: 500;
@@ -207,7 +207,7 @@ p{
     margin-bottom: 8px;
 }
 
-.icon{
+/* .icon{
     display: flex;
     justify-content: center;
     align-items: center;
