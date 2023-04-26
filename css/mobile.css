@@ -41,6 +41,8 @@ button{
 
 .close-btn-menu{
     position: absolute;
+    top: 0;
+    right: 0;
     background-color: #E7E9FC;
     opacity: 0.1;
     border: 1px solid #2E2F42;
