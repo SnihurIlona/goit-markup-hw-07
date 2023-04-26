@@ -52,7 +52,7 @@ button{
 }
 
 .btn-menu{
-    background-color: #2E2F42;
+    fill: #2E2F42;
 }
 
 @media screen and (max-width: 767px){
