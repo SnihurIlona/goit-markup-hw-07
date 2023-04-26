@@ -133,6 +133,13 @@ button{
             display: none;
         }
 
+        .background-light {
+        padding-top: 96px;
+        padding-bottom: 96px;
+        background-color: #F4F4FD;
+        }
+
+
 
 
 }
