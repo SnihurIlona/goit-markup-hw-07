@@ -265,4 +265,9 @@ button{
         margin-top: 72px;
         text-align: center;
     }
+    
+    .subscr-wrapper{
+        display: inline-block;
+    }
+
 }
