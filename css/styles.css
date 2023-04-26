@@ -461,9 +461,15 @@ p{
 
 
 /* .............Social media............... */
-.social-media{
+/* .social-media{
     margin-left: 120px;
     margin-right: auto;
+} */
+
+.icon-footer-info {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
 }
 
 .footer-social{
