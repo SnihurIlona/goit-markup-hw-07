@@ -221,4 +221,10 @@ button{
     align-items: center;
     gap: 16px;
     }
+
+
+    /* Footer */
+    .footer-nav{
+        display: inline-block;
+    }
 }
