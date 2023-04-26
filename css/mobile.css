@@ -89,7 +89,7 @@ button{
     
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-1x.jpg), url(../images/people-office-@2x.jpg);
             background-size: cover;
-            max-width: 428px;
+            min-width: 428px;
         }
         .caption {
         margin-bottom: 72px;
