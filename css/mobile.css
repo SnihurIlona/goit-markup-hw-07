@@ -50,6 +50,10 @@ button{
     border: 1px solid #2E2F42;
 }
 
+.btn-menu{
+    background-color: #2E2F42;
+}
+
 @media screen and (max-width: 767px){
     .container{
         width: 396px;
