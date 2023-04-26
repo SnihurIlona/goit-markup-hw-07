@@ -362,15 +362,15 @@ p{
 /* .section-emblem{
     padding-top: 120px;
     padding-bottom: 120px;
-}
+} */
 
 .customers{
-    min-width: 183px;
+    /* min-width: 183px; */
     text-align: center;
     margin-bottom: 72px;
 }
 
-.emblem{
+/* .emblem{
     display: flex;
     justify-content: center;
     gap: 24px;

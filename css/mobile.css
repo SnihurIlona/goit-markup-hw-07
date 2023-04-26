@@ -174,4 +174,15 @@ button{
         width: 264px;
     }
 
+
+    /* Section 5 */
+
+    .section-emblem {
+    padding-top: 96px;
+    padding-bottom: 96px;
+        }
+    .customers{
+        min-width: 197.47px;
+    }
+    
 }
