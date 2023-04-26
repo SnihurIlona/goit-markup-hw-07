@@ -180,6 +180,7 @@ button{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    text-align: center;
     color: var(--title-text-color);
     margin-bottom: 8px;
         }
