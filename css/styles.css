@@ -432,7 +432,7 @@ p{
     line-height: 1.5;
     color: #F4F4FD;
     margin-top: 16px;
-    margin-bottom: 0;
+    /* margin-bottom: 0; */
 }
 
 .footer-logo {
