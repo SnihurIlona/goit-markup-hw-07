@@ -1,5 +1,6 @@
 /* Header container */
 .container {
+    width: 100%;
     padding-left: 15px;
     padding-right: 15px;
     margin-left: auto;
@@ -52,6 +53,7 @@ button{
     fill: #2E2F42;
 } */
 
+
 @media screen and (min-width: 480px){
     .container{
         width: 428px;
@@ -71,9 +73,6 @@ button{
             text-transform: uppercase;
             color: #2E2F42;
                 }
-    .header-site , .contacts{
-        display: none;
-    }
 
     /* Section 1 */
 
@@ -158,4 +157,10 @@ button{
 
 
 
+}
+
+@media screen and (max-width: 767px){
+    .header-site, .contacts{
+        display: none;
+    }
 }
