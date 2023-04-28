@@ -1,6 +1,10 @@
 
 @media screen and (min-width: 768px){
 
+    .menu-toggle{
+        display: none;
+    }
+
     /* Header */
     .burger-btn{ display: none;}
 
