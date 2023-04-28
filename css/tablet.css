@@ -79,11 +79,12 @@
     display: none;
         }
 
-        
+
     .section-features{
         display: flex;
+        flex-direction: row;
         flex-wrap: wrap;
-        gap: 24px 72px;
+        gap: 72px 24px;
     }
 
 }

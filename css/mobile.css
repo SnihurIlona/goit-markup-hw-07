@@ -310,6 +310,7 @@ screen and (min-resolution: 2dppx) and (max-width: 480px) {
     letter-spacing: 0.02em;
     padding: 0;
     margin: 0;
+    max-width: 356px;
         }
 }
 
