@@ -144,5 +144,9 @@
         gap: 72px 24px;
     }
 
+    .social-media{
+        flex-direction: column;
+    }
+
 
 }
