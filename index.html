@@ -26,14 +26,14 @@
   <body>
     <header class="header">
       <!-- Mobile menu -->
-      <div class="mobile-menu js-menu-container">
-        <button type="button" class="close-btn-menu js-close-menu">
+      <div class="menu-container js-menu-container" id="mobile-menu">
+        <button type="button" class="menu-toggle js-close-menu">
           <svg class="btn-menu" width="8" height="8">
             <use href="./images/icons.svg/sprite.svg#icon-close-mibile"></use>
           </svg>
         </button>
 
-        <ul class="">
+        <ul class="mobile-menu">
           <li class="">
             <a class="menu link" href="./index.html">Studio</a>
           </li>
@@ -119,7 +119,7 @@
             </li>
           </ul>
         </address>
-        <button type="button" class="burger-btn">
+        <button type="button" class="burger-btn js-open-menu">
           <svg class="menu-burger" width="32" height="22">
             <use href="./images/icons.svg/sprite.svg#icon-menu-burger"></use>
           </svg>
