@@ -417,6 +417,15 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     width: 168px;
     height: 88px;
     }
+
+    /* Footer */
+    .description {
+    margin-bottom: 0;
+    }
+    
+    .footer-nav {
+    display: flex;
+    }
 }
 
 @media screen and (min-device-pixel-ratio: 2) and (min-width: 1200px),

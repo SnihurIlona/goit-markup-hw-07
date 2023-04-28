@@ -103,14 +103,6 @@
     align-items: center;
     }
 
-    /* Footer */
-    .description{
-    margin-bottom: 0;
-    }
-
-    .footer-nav {
-    display: flex;
-    }
 
     /* Social media */
     .social-media {
