@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 767px){
+@media screen and (min-width: 768px){
 
     /* Header */
     .burger-btn{ display: none;}
@@ -73,18 +73,21 @@
         line-height: 1.1;
     }
 
+    /* Section 2 */
 
-    /* Section 1 */
-    .caption {
-    margin-bottom: 36px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 496px;
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: var(--caption-text-color);
+    .icon {
+    display: none;
+        }
+    .section-features{
+        display: inline-block;
+    }
+
+        .subtitle {
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 1.1;
+            letter-spacing: 0.02em;
+            color: var(--title-text-color);
+            margin-bottom: 8px;
         }
 }
