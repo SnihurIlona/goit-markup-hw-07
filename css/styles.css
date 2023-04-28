@@ -129,9 +129,9 @@ p{
     color: #404bbf;
 }
 
-/* .site-nav:not(:last-child){
+.site-nav:not(:last-child){
     margin-right: 40px;
-} */
+}
 
 /* Header-wrap */
 /* .contacts {
