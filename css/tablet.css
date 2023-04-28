@@ -144,8 +144,15 @@
         gap: 72px 24px;
     }
 
-    .social-media{
-        flex-direction: column;
+    .input-subscribe{
+    min-width: 264px;
+    }
+
+    .subscr-wrapper{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 24px;
     }
 
 
