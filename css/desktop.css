@@ -101,6 +101,7 @@
 
     .emblem {
     display: flex;
+    flex-wrap: nowrap;
     justify-content: center;
     gap: 24px;
     }
