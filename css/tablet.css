@@ -113,5 +113,16 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
          }
+    
+    .emblem {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 24px;
+        }
 
+    .emblem-list {
+    width: 168px;
+    height: 88px;
+        }
 }
