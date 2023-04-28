@@ -83,6 +83,7 @@
     }
     .team-images {
     display: flex;
+    flex-wrap: nowrap;
     }
     .team-list:not(:last-child) {
     margin-right: 24px;
