@@ -1,0 +1,224 @@
+/* Header */
+
+@media screen and (min-width: 1200px){
+    .header-logo {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    color: #4D5AE5;
+    margin-right: 76px;
+        }
+
+    .menu {
+    position: relative;
+    }
+    
+    .menu::after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 4px;
+    background-color: #404BBF;
+    border-radius: 2px;
+    opacity: 1;
+    
+    transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .menu:hover::after,
+    .menu:focus::after {
+    opacity: 1;
+    transition: opacity, 250ms, cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .main-nav {
+    display: flex;
+    align-items: center;
+    }
+    
+    .header-site {
+    display: flex;
+    flex-direction: row;
+    }
+
+    .header-site .link {
+    display: block;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .contacts {
+    font-style: normal;
+    margin-left: auto;
+    }
+    
+    .header-wrap {
+    display: flex;
+    flex-direction: row;
+    }
+    .header-wrap .link{
+    font-size: 16px;
+    line-height: 1.5;
+    }
+
+    /* Section 1 */
+    .section-info{
+    padding-top: 188px;
+    padding-bottom: 188px;
+    max-width: 1440px;
+    }
+
+    /* Section 2 */
+    .section-items {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    }
+    
+    .subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-text-color);
+    margin-bottom: 8px;
+    }
+    
+    .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 264px;
+    height: 112px;
+    background: #F4F4FD;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    }
+    
+    .section-features {
+    display: flex;
+    gap: 24px;
+    }
+    
+    .features {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    padding: 0;
+    margin: 0;
+    }
+    
+    .features:not(:last-child) {
+    margin-right: 24px;
+    }
+
+    /* Section 4 */
+    .background-light {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: #F4F4FD;
+    }
+    .secondary-caption {
+    min-width: 162px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 72px;
+    }
+    .subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-text-color);
+    margin-bottom: 8px;
+    }
+    .team-images {
+    display: flex;
+    }
+    .team-list:not(:last-child) {
+    margin-right: 24px;
+    }
+
+    /* Section 5 */
+
+    .section-emblem {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    }
+    .customers{
+    min-width: 183px;
+    }
+
+    .emblem {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    }
+    .emblem-list {
+    width: 168px;
+    height: 88px;
+    }
+
+    .icon-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    /* Footer */
+    .description{
+    margin-bottom: 0;
+    }
+
+    .footer-nav {
+    display: flex;
+    }
+
+    /* Social media */
+    .social-media {
+    margin-left: 120px;
+    margin-right: auto;
+    }
+
+    /* Subscribe */
+
+    .subscr-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    }
+
+    .input-subscribe{
+    min-width: 264px;
+    }
+
+    /* Modal window */
+
+    .modal{
+    min-width: 408px;
+    min-height: 576px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    }
+
+    /* Modal form */
+    .modal-field-form{
+    padding-left: 38px;
+    }
+
+
+}
