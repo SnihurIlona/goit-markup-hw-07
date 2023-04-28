@@ -377,6 +377,8 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     
     .section-features {
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
     gap: 24px;
     }
     
