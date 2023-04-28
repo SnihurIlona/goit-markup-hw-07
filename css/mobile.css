@@ -65,6 +65,7 @@ button{
         }
 
         .mobile-nav{
+            margin-bottom: 80px;
             font-weight: 700;
             font-size: 36px;
             line-height: 1.1;
