@@ -104,38 +104,4 @@
     }
 
 
-    /* Social media */
-    .social-media {
-    margin-left: 120px;
-    margin-right: auto;
-    }
-
-    /* Subscribe */
-
-    .subscr-wrapper {
-    display: flex;
-    flex-direction: row;
-    gap: 24px;
-    }
-
-    .input-subscribe{
-    min-width: 264px;
-    }
-
-    /* Modal window */
-
-    .modal{
-    min-width: 408px;
-    min-height: 576px;
-    padding-bottom: 24px;
-    padding-left: 24px;
-    padding-right: 24px;
-    }
-
-    /* Modal form */
-    .modal-field-form{
-    padding-left: 38px;
-    }
-
-
 }
