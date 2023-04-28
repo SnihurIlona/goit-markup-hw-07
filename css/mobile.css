@@ -58,9 +58,13 @@ button{
             border-radius: 50%;
         }
 
+        .mobile-menu{
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
         .mobile-nav{
-            margin-left: 40px;
-            margin-bottom: 40px;
             font-weight: 700;
             font-size: 36px;
             line-height: 1.1;
