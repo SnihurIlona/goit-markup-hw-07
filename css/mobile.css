@@ -24,31 +24,6 @@ button{
     stroke: #2E2F42;
 }
 
-/* .mobile-menu{
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    z-index: 3;
-    padding: 24px 24px 40px 40px;
-    background-color: #FFFFFF;
-}
-
-.close-btn-menu{
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    top: 24px;
-    right: 24px;
-    background-color: #E7E9FC;
-    opacity: 0.1;
-    border: 1px solid #2E2F42;
-    border-radius: 24px;
-}
-
-.btn-menu{
-    fill: #2E2F42;
-} */
-
 
 .emblem-list{
     height: 88px;
@@ -60,6 +35,34 @@ button{
 }
 
 @media screen and (min-width: 480px){
+
+    /* /////////////Mobile menu ///////////////*/
+        .mobile-menu {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            z-index: 3;
+            padding: 24px 24px 40px 40px;
+            background-color: #FFFFFF;
+        }
+    
+        .close-btn-menu {
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            top: 24px;
+            right: 24px;
+            background-color: #E7E9FC;
+            opacity: 0.1;
+            border: 1px solid #2E2F42;
+            border-radius: 24px;
+        }
+    
+        .btn-menu {
+            fill: #2E2F42;
+        }
+    
+        /* / ///////////////////////////////// */
     
     .header-logo {
             font-family: 'Raleway', sans-serif;
