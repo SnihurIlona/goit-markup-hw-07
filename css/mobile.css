@@ -337,7 +337,7 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desctop-1x.jpg);
     }        
     
-    .header-wrap .link {
+    .header-wrap {
     display: flex;
     flex-direction: row;
     gap: 40px;
@@ -427,38 +427,38 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     display: flex;
     }
 
-        /* Social media */
-        .social-media {
-            margin-left: 120px;
-            margin-right: auto;
+    /* Social media */
+    .social-media {
+    margin-left: 120px;
+    margin-right: auto;
+    }
+    
+    /* Subscribe */
+    
+    .subscr-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    }
+    
+    .input-subscribe {
+    min-width: 264px;
+    }
+    
+    /* Modal window */
+    
+    .modal {
+        min-width: 408px;
+        min-height: 576px;
+        padding-bottom: 24px;
+        padding-left: 24px;
+        padding-right: 24px;
         }
     
-        /* Subscribe */
-    
-        .subscr-wrapper {
-            display: flex;
-            flex-direction: row;
-            gap: 24px;
-        }
-    
-        .input-subscribe {
-            min-width: 264px;
-        }
-    
-        /* Modal window */
-    
-        .modal {
-            min-width: 408px;
-            min-height: 576px;
-            padding-bottom: 24px;
-            padding-left: 24px;
-            padding-right: 24px;
-        }
-    
-        /* Modal form */
-        .modal-field-form {
-            padding-left: 38px;
-        }
+    /* Modal form */
+    .modal-field-form {
+    padding-left: 38px;
+    }
 }
 
 @media screen and (min-device-pixel-ratio: 2) and (min-width: 1200px),
