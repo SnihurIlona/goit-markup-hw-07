@@ -333,6 +333,11 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
         width: 1158px;
     }
 
+    .section-info {
+    min-width: 1440px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desctop-1x.jpg);
+    }        
+    
     .header-wrap {
     display: flex;
     flex-direction: row;
@@ -367,5 +372,13 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     
     .about-photo:not(:last-child) {
     margin-right: 24px;
+    }
+}
+
+@media screen and (min-device-pixel-ratio: 2) and (min-width: 1200px),
+screen and (min-resolution: 192dpi) and (min-width: 1200px),
+screen and (min-resolution: 2dppx) and (min-width: 1200px) {
+    .section-info {
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desctop-@2x.jpg);
     }
 }
