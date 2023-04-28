@@ -344,6 +344,52 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     gap: 40px;
     }
 
+    /* Section 2 */
+    .section-items {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    }
+    
+    .subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-text-color);
+    margin-bottom: 8px;
+    }
+    
+    .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 264px;
+    height: 112px;
+    background: #F4F4FD;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    }
+    
+    .section-features {
+    display: flex;
+    gap: 24px;
+    }
+    
+    .features {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    padding: 0;
+    margin: 0;
+    }
+    
+    .features:not(:last-child) {
+    margin-right: 24px;
+    }
+
+
+
     /* Section 3 */
     .section-about {
     padding-top: 0;

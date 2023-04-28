@@ -60,7 +60,7 @@
     }
 
     /* Section 2 */
-    .section-items {
+    /* .section-items {
     padding-top: 120px;
     padding-bottom: 120px;
     }
@@ -101,7 +101,7 @@
     
     .features:not(:last-child) {
     margin-right: 24px;
-    }
+    } */
 
     /* Section 4 */
     .background-light {
