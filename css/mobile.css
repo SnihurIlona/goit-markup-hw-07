@@ -400,6 +400,24 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
         display: block;
     }
 
+    /* Section 4 */
+    .team-images {
+    display: flex;
+    flex-wrap: nowrap;
+    }
+
+    /* Section 5 */
+    .emblem {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 24px;
+    }
+    
+    .emblem-list {
+    width: 168px;
+    height: 88px;
+    }
 }
 
 @media screen and (min-device-pixel-ratio: 2) and (min-width: 1200px),

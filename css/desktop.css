@@ -81,10 +81,7 @@
     color: var(--title-text-color);
     margin-bottom: 8px;
     }
-    .team-images {
-    display: flex;
-    flex-wrap: nowrap;
-    }
+
     .team-list:not(:last-child) {
     margin-right: 24px;
     }
@@ -99,16 +96,6 @@
     min-width: 183px;
     }
 
-    .emblem {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    gap: 24px;
-    }
-    .emblem-list {
-    width: 168px;
-    height: 88px;
-    }
 
     .icon-link{
     display: flex;
