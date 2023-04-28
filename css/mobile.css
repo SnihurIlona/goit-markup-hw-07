@@ -79,11 +79,6 @@ button{
             color: #4D5AE5;
         }
    
-    .second-color {
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            color: #2E2F42;
-                }
 
     /* Section 1 */
 
@@ -292,6 +287,6 @@ button{
 
     .modal-field-form{
         padding-left: 34px;
-        
+
     }
 }
