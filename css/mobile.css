@@ -279,5 +279,19 @@ button{
     }
 
 
+    /* Modal window */
 
+    .modal{
+        min-width: 392px;
+        min-height: 584px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-bottom: 24px;
+
+    }
+
+    .modal-field-form{
+        padding-left: 34px;
+        
+    }
 }
