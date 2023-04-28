@@ -1,10 +1,7 @@
 
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 767px){
     .burger-btn{ display: none;}
-    .container{
-        width: 766px;
-    }
 
     .header-logo {
     font-family: 'Raleway', sans-serif;
