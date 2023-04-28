@@ -116,6 +116,7 @@
     
     .emblem {
     display: flex;
+    justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 24px;
@@ -125,4 +126,9 @@
     width: 168px;
     height: 88px;
         }
+    .icon-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
 }
