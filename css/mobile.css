@@ -66,9 +66,7 @@ button{
 }
 
 @media screen and (min-width: 480px){
-    .container{
-        width: 428px;
-    }
+    
     .header-logo {
             font-family: 'Raleway', sans-serif;
             letter-spacing: 0.03em;
@@ -164,6 +162,10 @@ button{
 }
 
 @media screen and (max-width: 767px){
+    .container {
+            width: 428px;
+        }
+
     .header-site, .contacts{
         display: none;
     }
