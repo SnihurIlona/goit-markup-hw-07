@@ -87,13 +87,19 @@
         gap: 72px 24px;
     }
 
-        .team-images {
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            gap: 64px 24px;
+    /* Section 4 */
+    .team-images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 64px 24px;
         }
+
+    /* Section 5 */
+    .customers{
+        min-width: 183px;
+    }
 
 }
