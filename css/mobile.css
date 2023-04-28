@@ -293,6 +293,7 @@ screen and (min-resolution: 2dppx) and (max-width: 480px) {
     }
 
     .subtitle {
+    text-align: start;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
