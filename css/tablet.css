@@ -1,9 +1,3 @@
-.section-info{
-    @media screen and (min-width: 767px){
-        min-width: 768px;
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-tablet-1x.jpg), url(../images/people-office-tablet-@2x.jpg);
-    }
-}
 
 @media screen and (min-width: 767px){
 
