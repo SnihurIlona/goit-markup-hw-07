@@ -51,7 +51,6 @@
     .header-site {
     display: flex;
     flex-direction: row;
-    align-items: center;
         }
     
     .header-site .link {
@@ -75,9 +74,13 @@
     .header-wrap {
     display: flex;
     flex-direction: column;
+    align-items: center;
         }
+    
     .header-wrap .link{
         font-size: 12px;
         line-height: 1.1;
     }
+
+    
 }
