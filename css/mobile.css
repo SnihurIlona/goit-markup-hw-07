@@ -101,6 +101,10 @@ button{
             width: 428px;
         }
 
+    .caption{
+        width: 320px;
+    }
+
     .header-site, .contacts{
         display: none;
     }

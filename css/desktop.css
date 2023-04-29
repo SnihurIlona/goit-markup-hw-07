@@ -1,6 +1,10 @@
 /* Header */
 
 @media screen and (min-width: 1200px){
+
+    .caption{
+        width: 496px;
+    }
     
     .menu {
     position: relative;
