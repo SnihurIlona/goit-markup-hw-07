@@ -269,7 +269,7 @@ button{
         }
     
         .mobile-nav {
-            margin-bottom: 80px;
+            margin-bottom: 40px;
             font-weight: 700;
             font-size: 36px;
             line-height: 1.1;
@@ -295,16 +295,13 @@ button{
             padding-top: 80px;
         }
 
-        .mobile-menu{
-            margin-bottom: 284px
-        }
-
         .mobile-icon{
             display: flex;
             justify-content: space-around;
         }
 
         .contacts-mobile {
+        margin-top: 284px;
         margin-bottom: 48px;
         }
 
