@@ -98,7 +98,7 @@ button{
 
 @media screen and (max-width: 767px){
     .container {
-            width: 428px;
+            min-width: 428px;
         }
 
     .caption{
