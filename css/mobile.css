@@ -322,7 +322,9 @@ button{
             line-height: 1.2;
         }
         
-
+        .contacts-mobile{
+            margin-bottom: 48px;
+        }
         /* / ///////////////////////////////// */
 }
 
