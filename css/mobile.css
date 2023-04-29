@@ -287,7 +287,10 @@ button{
         .mobile-nav:focus {
             color: #404BBF;
         }
-    
+
+        .btn-menu{
+            stroke: #2E2F42;
+        }
         /* / ///////////////////////////////// */
 }
 
