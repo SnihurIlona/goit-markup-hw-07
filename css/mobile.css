@@ -274,11 +274,13 @@ button{
             font-size: 36px;
             line-height: 1.1;
             letter-spacing: 0.02em;
+        }
+
+        .menu-list{
             color: #2E2F42;
         }
-    
-        .mobile-nav:hover,
-        .mobile-nav:focus {
+        .menu-list:hover,
+        .menu-list:focus {
             color: #404BBF;
         }
 
