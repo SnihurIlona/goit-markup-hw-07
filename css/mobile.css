@@ -289,6 +289,16 @@ button{
         .mob-menu{
             padding-top: 80px;
         }
+
+        .mobile-menu{
+            margin-bottom: 284px
+        }
+
+        .mobile-icon{
+            display: flex;
+            justify-content: space-around;
+            gap: 24px;
+        }
         /* / ///////////////////////////////// */
 }
 
