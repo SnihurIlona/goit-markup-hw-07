@@ -322,6 +322,10 @@ button{
             font-weight: 500;
             line-height: 1.2;
         }
+
+        .btn-menu{
+            fill: #2E2F42;
+        }
         
         /* / ///////////////////////////////// */
 }
