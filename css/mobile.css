@@ -35,17 +35,14 @@ button{
 }
 
 @media screen and (min-width: 480px){
-   
-
     /* Section 1 */
 
-        .section-info {
-            padding-top: 112px;
-            padding-bottom: 112px;
-    
-            background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-1x.jpg);
-            min-width: 428px;
-        }
+    .section-info {
+    padding-top: 112px;
+    padding-bottom: 112px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-1x.jpg);
+    min-width: 428px;
+    }
 
         /* Section 2 */
 
@@ -86,21 +83,15 @@ button{
         .background-light {
         padding-top: 96px;
         padding-bottom: 96px;
-        background-color: #F4F4FD;
         }
 
         .secondary-caption {
-        min-width: 162px;
         height: 40px;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.1;
         text-align: center;
         letter-spacing: 0.02em;
-        margin-top: 0;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 72px;
         }
 
 }
