@@ -303,12 +303,20 @@ button{
             gap: 24px;
         }
 
+        .contacts-mobile {
+        margin-bottom: 48px;
+        }
+
         .mobile-contacts{
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
         margin-bottom: 48px;
+        }
+
+        .mobile-adress{
+        margin-bottom: 40px;
         }
 
         .mob-cont{
@@ -322,9 +330,6 @@ button{
             line-height: 1.2;
         }
         
-        .contacts-mobile{
-            margin-bottom: 48px;
-        }
         /* / ///////////////////////////////// */
 }
 
