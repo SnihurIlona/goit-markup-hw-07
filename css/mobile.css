@@ -287,6 +287,8 @@ button{
         }
 
         .mob-menu{
+            width: 428px;
+            height: 796px;
             position: absolute;
             padding-top: 80px;
         }
