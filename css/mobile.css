@@ -300,7 +300,6 @@ button{
         .mobile-icon{
             display: flex;
             justify-content: space-around;
-            gap: 24px;
         }
 
         .contacts-mobile {
