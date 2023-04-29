@@ -35,6 +35,10 @@ button{
 }
 
 @media screen and (min-width: 480px){
+    header{
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
 
     /* Section 1 */
 
