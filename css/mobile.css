@@ -98,6 +98,10 @@ button{
 }
 
 @media screen and (max-width: 767px){
+    header{
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
     .container {
     width: 428px;
     }
