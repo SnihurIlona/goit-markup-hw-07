@@ -254,6 +254,18 @@ button{
             z-index: 3;
             padding: 24px 24px 40px 40px;
             background-color: #FFFFFF;
+
+            opacity: 0;
+            visibility: visible;
+            pointer-events: none;
+
+            transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .menu-container.is-open{
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
         }
     
         .menu-toggle {
