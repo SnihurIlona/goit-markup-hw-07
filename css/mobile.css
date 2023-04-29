@@ -309,7 +309,10 @@ button{
         line-height: 1.2;
         letter-spacing: 0.02em;
         margin-bottom: 48px;
-        color: var(--primary-text-color);
+        }
+
+        .mob-cont{
+            color: var(--primary-text-color);
         }
 
         .mobile-contacts:hover, .mobile-contacts:focus{
