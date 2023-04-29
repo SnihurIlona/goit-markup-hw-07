@@ -35,17 +35,6 @@ button{
 }
 
 @media screen and (min-width: 480px){
-
-    
-    .header-logo {
-            font-family: 'Raleway', sans-serif;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            font-weight: 800;
-            font-size: 18px;
-            line-height: 1.17;
-            color: #4D5AE5;
-        }
    
 
     /* Section 1 */
