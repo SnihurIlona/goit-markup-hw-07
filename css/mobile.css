@@ -315,7 +315,7 @@ button{
             color: var(--primary-text-color);
         }
 
-        .mobile-contacts:hover, .mobile-contacts:focus{
+        .mob-cont:hover, .mob-cont:focus{
             color: #4D5AE5;
             font-size: 36px;
             font-weight: 500;
