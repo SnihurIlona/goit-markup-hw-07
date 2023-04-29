@@ -30,7 +30,7 @@ button{
     margin-bottom: 72px;
 }
 
-.icon-link:not(:last-child){
+.emblem-list:not(:last-child){
     margin-right: 16px;
 }
 
