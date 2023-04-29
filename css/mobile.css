@@ -288,6 +288,7 @@ button{
             height: 796px;
             position: absolute;
             padding-top: 80px;
+            padding-bottom: 40px;
         }
 
         .mobile-icon{
