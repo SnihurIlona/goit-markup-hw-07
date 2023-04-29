@@ -268,12 +268,6 @@ button{
             border-radius: 50%;
         }
     
-        .mobile-menu {
-            display: flex;
-            flex-direction: column;
-            gap: 40px;
-        }
-    
         .mobile-nav {
             margin-bottom: 80px;
             font-weight: 700;
@@ -290,6 +284,10 @@ button{
 
         .btn-menu{
             stroke: #2E2F42;
+        }
+
+        .mob-menu{
+            padding-top: 80px;
         }
         /* / ///////////////////////////////// */
 }
@@ -366,7 +364,7 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     display: none;
     }
 
-    
+
     .section-info {
     min-width: 1440px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desctop-1x.jpg);
