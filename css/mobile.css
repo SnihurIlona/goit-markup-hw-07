@@ -402,6 +402,7 @@ screen and (min-resolution: 2dppx) and (max-width: 480px) {
 screen and (min-resolution: 192dpi) and (min-width: 768px),
 screen and (min-resolution: 2dppx) and (min-width: 768px) {
     .section-info{
+        background-color: #2E2F42;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-tablet-@2x.jpg);
     }
 }
@@ -558,6 +559,7 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
 screen and (min-resolution: 192dpi) and (min-width: 1200px),
 screen and (min-resolution: 2dppx) and (min-width: 1200px) {
     .section-info {
+        background-color: #2E2F42;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desctop-@2x.jpg);
     }
 }
