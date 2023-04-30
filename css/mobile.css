@@ -400,6 +400,8 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
 
     .section-info {
     min-width: 1440px;
+    padding-top: 188px;
+    padding-bottom: 188px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desctop-1x.jpg);
     }        
     
