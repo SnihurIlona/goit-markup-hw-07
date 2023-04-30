@@ -243,6 +243,7 @@ p{
     line-height: 1.5;
     color: #F4F4FD;
     margin-top: 16px;
+    letter-spacing: 0.02em;
 }
 
 .footer-logo {
