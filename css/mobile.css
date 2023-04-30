@@ -31,6 +31,10 @@ button{
 }
 
 @media screen and (max-width: 767px){
+    .container {
+            width: 428px;
+        }
+
     .header-logo{
         padding-top: 24px;
         padding-bottom: 24px;
