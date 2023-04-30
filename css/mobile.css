@@ -407,11 +407,14 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
     display: flex;
     flex-direction: row;
     gap: 40px;
-    font-size: 16px;
     letter-spacing: 0.02em;
     font-weight: 400;
-    letter-spacing: 0.02em;
     color: var(--primary-text-color);
+    }
+
+    .header-wrap .link {
+    font-size: 16px;
+    line-height: 1.5;
     }
 
     /* Section 2 */
