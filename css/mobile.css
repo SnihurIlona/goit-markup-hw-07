@@ -7,6 +7,10 @@
     margin-right: auto;
 }
 
+.container.adaptive{
+    max-width: 320px;
+}
+
 .main-nav {
     display: flex;
     justify-content: space-between;
@@ -30,7 +34,7 @@ button{
     margin-bottom: 72px;
 }
 
-@media screen and (max-width: 767px){
+@media screen and (min-width: 480px){
     .container {
     width: 428px;
     }
