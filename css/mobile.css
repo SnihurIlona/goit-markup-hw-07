@@ -32,8 +32,8 @@ button{
 
 @media screen and (max-width: 767px){
     .container {
-            width: 428px;
-        }
+    width: 428px;
+    }
 
     .header-logo{
         padding-top: 24px;
@@ -111,6 +111,10 @@ button{
     width: 428px;
     }
 
+    .section-info{
+    background-color: #2E2F42;
+    }
+    
     .caption{
         min-width: 320px;
         font-size: 36px;
