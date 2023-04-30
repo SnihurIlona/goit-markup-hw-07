@@ -154,10 +154,11 @@ button{
     color: #2E2F42;
     }
 
-    .emblen{
+    .emblem{
     display: flex;
     flex-basis: calc((100% - 2 * 10px) / 2);
     }
+
     .emblem-list{
     display: inline-block;
     }
