@@ -155,7 +155,8 @@ button{
     }
 
     .emblem-list{
-    display: inline-block;
+    display: flex;
+    flex-basis: calc((100% - 2 * 10px) / 2);
     }
 
     .icon-link{
