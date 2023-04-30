@@ -35,7 +35,7 @@ button{
 }
 
 @media screen and (min-width: 480px){
-    .container {
+    .container.adaptive {
     width: 428px;
     }
 
@@ -111,7 +111,7 @@ button{
 }
 
 @media screen and (max-width: 767px){
-    .container {
+    .container.adaptive {
     width: 428px;
     }
 
@@ -368,7 +368,7 @@ screen and (min-resolution: 2dppx) and (max-width: 480px) {
 /* ..................TABLET ....................*/
 
 @media screen and (min-width: 768px) {
-    .container {
+    .container.adaptive {
         width: 768px;
     }
 
@@ -418,7 +418,7 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
 /* .................DESKTOP..................... */
 
 @media screen and (min-width: 1200px) {
-    .container {
+    .container.adaptive {
         width: 1158px;
     }
 
