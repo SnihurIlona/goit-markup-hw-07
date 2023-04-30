@@ -279,13 +279,15 @@ button{
             position: absolute;
             width: 24px;
             height: 24px;
-            top: 24px;
             right: 24px;
             background-color: #E7E9FC;
             border: 1px solid #2E2F42;
             border-radius: 50%;
         }
-    
+
+        .mobile-navigation{
+            margin-top: 80px;
+        }
         .mobile-nav {
             margin-bottom: 40px;
             font-weight: 700;
@@ -306,8 +308,6 @@ button{
             width: 428px;
             height: 796px;
             position: absolute;
-            padding-top: 80px;
-            padding-bottom: 40px;
         }
 
         .mobile-icon{
