@@ -56,6 +56,11 @@ button{
         padding-bottom: 96px;
         }
 
+        .section-features{
+            display: flex;
+            flex-direction: column;
+            gap: 72px;
+        }
         .subtitle {
         text-align: center;
         font-weight: 700;
