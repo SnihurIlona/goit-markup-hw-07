@@ -157,11 +157,12 @@ button{
     .emblem{
         display: flex;
         flex-wrap: wrap;
-        flex-basis: calc((100% - 8 * 10px) / 2);
+        gap: 16px;
     }
 
     .emblem-list{
     display: inline-block;
+    flex-basis: calc((100% - 8 * 10px) / 2);
     }
 
     .icon-link{
