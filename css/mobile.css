@@ -31,10 +31,6 @@ button{
 }
 
 @media screen and (min-width: 320px){
-    .container {
-            width: 428px;
-        }
-        
     .header-logo{
         padding-top: 24px;
         padding-bottom: 24px;
@@ -76,7 +72,6 @@ button{
         line-height: 1.5;
         letter-spacing: 0.02em;
         padding: 0;
-        margin-bottom: 72px;
         }
 
         /* Section 3 */
