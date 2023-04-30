@@ -37,6 +37,7 @@ button{
     .section-info {
     padding-top: 112px;
     padding-bottom: 112px;
+    background-color: #2E2F42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-1x.jpg);
     min-width: 428px;
     }
